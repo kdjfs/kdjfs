@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="434" viewBox="0 0 390 434" role="img" aria-labelledby="title desc">
+  <title id="title">Highlights</title><desc id="desc">Open source contribution, technical writing, software copyrights, and national competition award.</desc>
+  <rect x="1" y="1" width="388" height="432" rx="18" fill="#f6f6fa" stroke="#12131a" stroke-opacity=".1"/>
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif">
+    <g transform="translate(18 18)"><rect width="354" height="88" rx="14" fill="#ffffff" stroke="#7458e8" stroke-opacity=".28"/><text x="18" y="40" fill="#7458e8" font-size="25" font-weight="760">170+★</text><text x="128" y="36" fill="#12131a" font-size="15" font-weight="680">Open-source contribution</text><text x="128" y="61" fill="#5f6170" font-size="11">Credited fork · upstream stars</text></g>
+    <g transform="translate(18 121)"><rect width="354" height="88" rx="14" fill="#ffffff" stroke="#087e8b" stroke-opacity=".24"/><text x="18" y="40" fill="#087e8b" font-size="25" font-weight="760">50w+</text><text x="128" y="36" fill="#12131a" font-size="15" font-weight="680">Content impressions</text><text x="128" y="61" fill="#5f6170" font-size="11">Frontend and engineering writing</text></g>
+    <g transform="translate(18 224)"><rect width="354" height="88" rx="14" fill="#ffffff" stroke="#2362da" stroke-opacity=".24"/><text x="18" y="40" fill="#2362da" font-size="25" font-weight="760">03</text><text x="128" y="36" fill="#12131a" font-size="15" font-weight="680">Software Copyrights</text><text x="128" y="61" fill="#5f6170" font-size="11">Product and engineering output</text></g>
+    <g transform="translate(18 327)"><rect width="354" height="88" rx="14" fill="#ffffff" stroke="#7458e8" stroke-opacity=".24"/><text x="18" y="38" fill="#7458e8" font-size="18" font-weight="760">National</text><text x="18" y="61" fill="#7458e8" font-size="18" font-weight="760">Award</text><text x="128" y="36" fill="#12131a" font-size="15" font-weight="680">Mathematical / Statistical</text><text x="128" y="61" fill="#5f6170" font-size="11">Modeling competition</text></g>
+  </g>
+</svg>

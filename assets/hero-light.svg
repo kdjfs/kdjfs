@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-labelledby="title desc">
+  <title id="title">刘凤伟 / Liufengwei</title>
+  <desc id="desc">Frontend Engineer and AI Application Builder</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#12131a" stroke-opacity=".055"/>
+    </pattern>
+    <radialGradient id="violet" cx="0" cy="0" r="1" gradientTransform="translate(760 54) rotate(140) scale(260 190)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7458e8" stop-opacity=".18"/><stop offset="1" stop-color="#7458e8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="cyan" cx="0" cy="0" r="1" gradientTransform="translate(640 220) rotate(-35) scale(240 130)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#087e8b" stop-opacity=".12"/><stop offset="1" stop-color="#087e8b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="1" y="1" width="898" height="248" rx="22" fill="#f6f6fa" stroke="#12131a" stroke-opacity=".12"/>
+  <rect x="1" y="1" width="898" height="248" rx="22" fill="url(#grid)"/>
+  <rect x="1" y="1" width="898" height="248" rx="22" fill="url(#violet)"/>
+  <rect x="1" y="1" width="898" height="248" rx="22" fill="url(#cyan)"/>
+  <g fill="none" stroke-linecap="round">
+    <ellipse cx="745" cy="120" rx="112" ry="54" stroke="#7458e8" stroke-opacity=".34" transform="rotate(-18 745 120)"/>
+    <ellipse cx="745" cy="120" rx="74" ry="112" stroke="#087e8b" stroke-opacity=".2" transform="rotate(48 745 120)"/>
+    <path d="M612 169c58-72 140-96 229-76" stroke="#2362da" stroke-opacity=".2"/>
+  </g>
+  <circle cx="648" cy="149" r="5" fill="#087e8b"/>
+  <circle cx="821" cy="75" r="4" fill="#7458e8"/>
+  <circle cx="790" cy="179" r="3" fill="#2362da"/>
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">
+    <text x="54" y="72" fill="#12131a" font-size="37" font-weight="720" letter-spacing="-1">刘凤伟 / Liufengwei</text>
+    <text x="56" y="112" fill="#5f6170" font-size="20" font-weight="560">Frontend Engineer · AI Application Builder</text>
+    <text x="56" y="151" fill="#7458e8" font-size="15" font-weight="650" letter-spacing=".8">VUE · REACT · TYPESCRIPT · NODE.JS · AI AGENT</text>
+    <rect x="56" y="184" width="108" height="30" rx="15" fill="#ffffff" stroke="#12131a" stroke-opacity=".13"/>
+    <text x="75" y="204" fill="#087e8b" font-size="12" font-family="'SFMono-Regular', Consolas, monospace" font-weight="700" letter-spacing="1.2">LFW / 01</text>
+    <text x="180" y="204" fill="#898b98" font-size="12" font-family="'SFMono-Regular', Consolas, monospace">const focus = &quot;useful systems&quot;;</text>
+  </g>
+</svg>

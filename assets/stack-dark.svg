@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-labelledby="title desc">
+  <title id="title">Core technology stack</title><desc id="desc">TypeScript, JavaScript, Vue, React, Node.js, Astro, Vite, MySQL, Redis, Three.js, Git, and AI / LLM.</desc>
+  <rect x="1" y="1" width="898" height="248" rx="20" fill="#080a10" stroke="#f3f0ea" stroke-opacity=".1"/>
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="18" font-weight="650" text-anchor="middle">
+    <g fill="#10131d" stroke="#f3f0ea" stroke-opacity=".12"><rect x="28" y="28" width="196" height="48" rx="12"/><rect x="244" y="28" width="196" height="48" rx="12"/><rect x="460" y="28" width="196" height="48" rx="12"/><rect x="676" y="28" width="196" height="48" rx="12"/><rect x="28" y="101" width="196" height="48" rx="12"/><rect x="244" y="101" width="196" height="48" rx="12"/><rect x="460" y="101" width="196" height="48" rx="12"/><rect x="676" y="101" width="196" height="48" rx="12"/><rect x="28" y="174" width="196" height="48" rx="12"/><rect x="244" y="174" width="196" height="48" rx="12"/><rect x="460" y="174" width="196" height="48" rx="12"/><rect x="676" y="174" width="196" height="48" rx="12"/></g>
+    <g fill="#f3f0ea"><text x="126" y="59">TypeScript</text><text x="342" y="59">JavaScript</text><text x="558" y="59">Vue</text><text x="774" y="59">React</text><text x="126" y="132">Node.js</text><text x="342" y="132">Astro</text><text x="558" y="132">Vite</text><text x="774" y="132">MySQL</text><text x="126" y="205">Redis</text><text x="342" y="205">Three.js</text><text x="558" y="205">Git</text><text x="774" y="205" fill="#55dbe7">AI / LLM</text></g>
+  </g>
+</svg>

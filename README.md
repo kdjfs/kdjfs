@@ -1,67 +1,114 @@
-<div align="center">
-
-# Hi, I'm 刘凤伟 / Liufengwei
-
-**Frontend Developer · AI Builder · Full-Stack Explorer**
-
-Building interfaces, engineering systems, and practical AI products.
-
-[Blog](https://liufengwei-personal-blog.vercel.app/) · [GitHub](https://github.com/kdjfs) · [Email](mailto:lfw2663040734@qq.com)
-
-</div>
-
-<br />
-
-## About
-
-I work at the intersection of frontend engineering, product experience, and AI application development.
-My daily tools are Vue, React, TypeScript, Node.js, and the build systems that make products reliable.
-I also explore LLM, Agent, RAG, MCP, and full-stack architecture by turning ideas into working software.
-
-## Tech Stack
-
-`TypeScript` · `JavaScript` · `Vue` · `React` · `Node.js` · `Astro` · `Vite` · `MySQL` · `Redis` · `Three.js` · `AI` · `Git`
-
-## Featured Projects
-
-| Project | What it does | Stack | Links |
-| --- | --- | --- | --- |
-| [LFW Space](https://github.com/kdjfs/liufengwei-personal-blog) | A content-first personal blog and digital garden for technology, projects, and ideas. | Astro · React · Tailwind · DeepSeek AI | [Repo](https://github.com/kdjfs/liufengwei-personal-blog) · [Demo](https://liufengwei-personal-blog.vercel.app/) |
-| [PigHealthSmartMedicine](https://github.com/kdjfs/PigHealthSmartMedicine) | A smart veterinary and medicine management system for pig health workflows; contributed through a fork of an open-source project with 170+ stars. | Spring Boot · Spring AI · Ollama · DeepSeek · MySQL · Redis | [Repo](https://github.com/kdjfs/PigHealthSmartMedicine) · [Upstream](https://github.com/linyshdhhcb/PigHealthSmartMedicine) |
-| [HelloJourney](https://github.com/kdjfs/HelloJourney) | An AI travel planning platform with itinerary generation, budget analysis, and visual knowledge exploration. | React · TypeScript · AI · Knowledge Graph | [Repo](https://github.com/kdjfs/HelloJourney) |
-| [dayPlay](https://github.com/kdjfs/dayPlay) | A local-first, multi-platform planner focused on the next thing that matters. | PWA · Android · Electron · WebDAV | [Repo](https://github.com/kdjfs/dayPlay) |
-
-## GitHub Dashboard
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
+  <img width="100%" src="./assets/hero-light.svg" alt="刘凤伟 / Liufengwei — Frontend Engineer and AI Application Builder" />
+</picture>
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kdjfs&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=39d353&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=kdjfs&theme=github-dark&hide_border=true&background=00000000&ring=58a6ff&fire=39d353&currStreakLabel=58a6ff" alt="GitHub streak" />
-
-<br />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdjfs&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e" alt="Top languages" />
-
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=kdjfs&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Profile trophies" />
-
+  <a href="https://liufengwei-personal-blog.vercel.app/">Blog</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://juejin.cn/user/2826210963370939">Juejin</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/kdjfs">GitHub</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:lfw2663040734@qq.com">Email</a>
 </div>
 
-<br />
+## Focus
+
+专注 Vue / React / TypeScript 的前端工程化与复杂交互，同时探索 Node.js、AI Agent、RAG 与现代 AI 应用开发。
+
+喜欢把技术真正做成可以运行、可以演示、可以长期维护的产品。
+
+`Frontend Engineering` → `Product & Cross-platform` → `AI Applications` → `Open Source & Writing`
+
+## Highlights
+
+<picture>
+  <source media="(max-width: 520px) and (prefers-color-scheme: dark)" srcset="./assets/highlights-mobile-dark.svg" />
+  <source media="(max-width: 520px) and (prefers-color-scheme: light)" srcset="./assets/highlights-mobile-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/highlights-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/highlights-light.svg" />
+  <img width="100%" src="./assets/highlights-light.svg" alt="Highlights: open-source contribution, technical content, software copyrights, and national modeling award" />
+</picture>
+
+<sub><strong>170+★</strong> refers to the <a href="https://github.com/linyshdhhcb/PigHealthSmartMedicine">upstream open-source project</a>; my contribution is presented through a credited fork.</sub>
+
+## Selected Work
+
+<a href="https://liufengwei-personal-blog.vercel.app/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/lfw-space-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/projects/lfw-space-light.svg" />
+    <img width="100%" src="./assets/projects/lfw-space-light.svg" alt="LFW Space — personal blog, digital garden, and AI-powered learning space" />
+  </picture>
+</a>
+
+<sub><a href="https://github.com/kdjfs/liufengwei-personal-blog">Repository</a> · <a href="https://liufengwei-personal-blog.vercel.app/">Live</a></sub>
+
+<a href="https://github.com/kdjfs/HelloJourney">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/hello-journey-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/projects/hello-journey-light.svg" />
+    <img width="100%" src="./assets/projects/hello-journey-light.svg" alt="HelloJourney — AI-powered travel planning platform" />
+  </picture>
+</a>
+
+<sub><a href="https://github.com/kdjfs/HelloJourney">Repository</a></sub>
+
+<a href="https://github.com/kdjfs/ling-music">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/ling-music-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/projects/ling-music-light.svg" />
+    <img width="100%" src="./assets/projects/ling-music-light.svg" alt="LingMusic — local-first web music player" />
+  </picture>
+</a>
+
+<sub><a href="https://github.com/kdjfs/ling-music">Repository</a></sub>
+
+<a href="https://github.com/kdjfs/PigHealthSmartMedicine">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/pig-health-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/projects/pig-health-light.svg" />
+    <img width="100%" src="./assets/projects/pig-health-light.svg" alt="PigHealthSmartMedicine — open-source contribution through a credited fork" />
+  </picture>
+</a>
+
+<sub><a href="https://github.com/kdjfs/PigHealthSmartMedicine">Fork</a> · <a href="https://github.com/linyshdhhcb/PigHealthSmartMedicine">Upstream</a></sub>
+
+## Core Stack
+
+<picture>
+  <source media="(max-width: 520px) and (prefers-color-scheme: dark)" srcset="./assets/stack-mobile-dark.svg" />
+  <source media="(max-width: 520px) and (prefers-color-scheme: light)" srcset="./assets/stack-mobile-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg" />
+  <img width="100%" src="./assets/stack-light.svg" alt="Core stack: TypeScript, JavaScript, Vue, React, Node.js, Astro, Vite, MySQL, Redis, Three.js, Git, and AI / LLM" />
+</picture>
+
+## GitHub Activity
+
+<picture>
+  <source media="(max-width: 520px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kdjfs/kdjfs/output/activity-mobile-dark.svg" />
+  <source media="(max-width: 520px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kdjfs/kdjfs/output/activity-mobile-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kdjfs/kdjfs/output/activity-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kdjfs/kdjfs/output/activity-light.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/kdjfs/kdjfs/output/activity-light.svg" alt="GitHub activity generated from public GitHub data" />
+</picture>
+
+## Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kdjfs/kdjfs/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kdjfs/kdjfs/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/kdjfs/kdjfs/output/github-contribution-grid-snake.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/kdjfs/kdjfs/output/github-contribution-grid-snake.svg" alt="Contribution history snake" />
 </picture>
 
-## Open Source / Journey
+## Latest Writing
 
-Contributed to an open-source project with [170+ stars](https://github.com/linyshdhhcb/PigHealthSmartMedicine) · 50w+ technical content impressions · Continuous open source and blog output.
+- [8.6 亚信科技和nemo video二面面经](https://liufengwei-personal-blog.vercel.app/blog/8-6-ya-xin-ke-ji-he-nemo-video-er-mian-mian-jing/) — 面经 · 2026-08-06
+- [8.5号 nemovideo（tiktok前身）和水木面经](https://liufengwei-personal-blog.vercel.app/blog/8-5-hao-nemovideo-tiktok-qian-shen-he-shui-mu-mian-jing/) — 面经 · 2026-08-05
+- [8.4 四家面试](https://liufengwei-personal-blog.vercel.app/blog/8-4-si-jia-mian-shi/) — 面经 · 2026-08-04
+
+[View all posts → LFW Space](https://liufengwei-personal-blog.vercel.app/blog/)
 
 <div align="center">
-
-— [LFW Space](https://liufengwei-personal-blog.vercel.app/) · Keep building, keep shipping —
-
+  <a href="https://liufengwei-personal-blog.vercel.app/"><strong>知行合一 · Build. Ship. Reflect.</strong></a>
 </div>
