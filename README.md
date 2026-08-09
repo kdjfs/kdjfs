@@ -27,7 +27,7 @@ I also explore LLM, Agent, RAG, MCP, and full-stack architecture by turning idea
 | Project | What it does | Stack | Links |
 | --- | --- | --- | --- |
 | [LFW Space](https://github.com/kdjfs/liufengwei-personal-blog) | A content-first personal blog and digital garden for technology, projects, and ideas. | Astro · React · Tailwind · DeepSeek AI | [Repo](https://github.com/kdjfs/liufengwei-personal-blog) · [Demo](https://liufengwei-personal-blog.vercel.app/) |
-| [PigHealthSmartMedicine](https://github.com/kdjfs/PigHealthSmartMedicine) | A smart veterinary and medicine management system for pig health workflows. | Spring Boot · Spring AI · Ollama · DeepSeek · MySQL | [Repo](https://github.com/kdjfs/PigHealthSmartMedicine) |
+| [PigHealthSmartMedicine](https://github.com/kdjfs/PigHealthSmartMedicine) | A smart veterinary and medicine management system for pig health workflows; contributed through a fork of an open-source project with 170+ stars. | Spring Boot · Spring AI · Ollama · DeepSeek · MySQL · Redis | [Repo](https://github.com/kdjfs/PigHealthSmartMedicine) · [Upstream](https://github.com/linyshdhhcb/PigHealthSmartMedicine) |
 | [HelloJourney](https://github.com/kdjfs/HelloJourney) | An AI travel planning platform with itinerary generation, budget analysis, and visual knowledge exploration. | React · TypeScript · AI · Knowledge Graph | [Repo](https://github.com/kdjfs/HelloJourney) |
 | [dayPlay](https://github.com/kdjfs/dayPlay) | A local-first, multi-platform planner focused on the next thing that matters. | PWA · Android · Electron · WebDAV | [Repo](https://github.com/kdjfs/dayPlay) |
 
@@ -58,7 +58,7 @@ I also explore LLM, Agent, RAG, MCP, and full-stack architecture by turning idea
 
 ## Open Source / Journey
 
-160+ Star project · 50w+ technical content impressions · Continuous open source and blog output.
+Contributed to an open-source project with [170+ stars](https://github.com/linyshdhhcb/PigHealthSmartMedicine) · 50w+ technical content impressions · Continuous open source and blog output.
 
 <div align="center">
 
